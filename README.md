@@ -1,7 +1,5 @@
 # Statistical Arbitrage Pairs-Trading Engine (US Equities, ESG-Themed vs. Baseline)
 
-**May 2025 – Jul 2025**
-
 A market-neutral strategy backtester that pairs “green” and “brown” universes constructed from S&P 500 stocks and Yahoo ESG scores, plus a vanilla same-sector baseline.
 
 ---
